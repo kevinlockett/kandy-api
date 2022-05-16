@@ -1,0 +1,20 @@
+{
+    "name": "kandy-api",
+    "version": "1.0.0",
+    "description": "Simple json-server database to deploy to the cloud",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "keywords": [
+        "json-server, node, REST API"
+    ],
+    "author": "NSS Student",
+    "license": "ISC",
+    "dependencies": {
+        "json-server": "^0.17.0",
+        "react": "^18.1.0",
+        "react-dom": "^18.1.0",
+        "react-router-dom": "^6.3.0"
+    }
+}

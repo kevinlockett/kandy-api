@@ -1,0 +1,298 @@
+{
+    "locations": [
+        {
+            "id": 1,
+            "name": "Kandy Korner -- Downtown Nashville",
+            "address": "13751 Block Way",
+            "sqFeet": 1250,
+            "accessibility": true
+        },
+        {
+            "id": 2,
+            "name": "Kandy Korner -- West Nashville",
+            "address": "7458 Hoeger Greens",
+            "sqFeet": 1400,
+            "accessibility": false
+        },
+        {
+            "id": 3,
+            "name": "Kandy Korner -- East Nashville",
+            "address": "53414 Morissette Via",
+            "sqFeet": 1375,
+            "accessibility": true
+        },
+        {
+            "id": 4,
+            "name": "Kandy Korner -- Franklin",
+            "address": "748 Oberbrunner Orchard",
+            "sqFeet": 1100,
+            "accessibility": false
+        },
+        {
+            "id": 5,
+            "name": "Kandy Korner -- Spring Hill",
+            "address": "3198 Pouros Expressway",
+            "sqFeet": 1050,
+            "accessibility": true
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "productTypeId": 1,
+            "product": "Jolly Rancher Assortments",
+            "price": 7.99,
+            "size": "46 oz"
+        },
+        {
+            "id": 2,
+            "productTypeId": 1,
+            "product": "Life Savers",
+            "price": 3.39,
+            "size": "14.5 oz"
+        },
+        {
+            "id": 3,
+            "productTypeId": 1,
+            "product": "Brach's Cinnamon Hard Candy",
+            "price": 3.95,
+            "size": "7 oz"
+        },
+        {
+            "id": 4,
+            "productTypeId": 1,
+            "product": "Brach's Butterscoth Hard Candy",
+            "price": 12.48,
+            "size": "2 lb"
+        },
+        {
+            "id": 5,
+            "productTypeId": 1,
+            "product": "The Original Lemonhead",
+            "price": 1,
+            "size": "5.5 oz"
+        },
+        {
+            "id": 6,
+            "productTypeId": 2,
+            "product": "Sugar Daddy Pops",
+            "price": 17.49,
+            "size": "48 lollipops per box"
+        },
+        {
+            "id": 7,
+            "productTypeId": 2,
+            "product": "Dad's Old Fashioned Root Beer Barrels",
+            "price": 5.99,
+            "size": "1 lb"
+        },
+        {
+            "id": 8,
+            "productTypeId": 2,
+            "product": "Necco Wafers",
+            "price": 9.64,
+            "size": "6 rolls"
+        },
+        {
+            "id": 9,
+            "productTypeId": 2,
+            "product": "Bit-O-Honey",
+            "price": 33.9,
+            "size": "5 lb"
+        },
+        {
+            "id": 10,
+            "productTypeId": 2,
+            "product": "Rainbow Circus Peanuts",
+            "price": 6.99,
+            "size": "1 lb"
+        },
+        {
+            "id": 11,
+            "productTypeId": 3,
+            "product": "M & M's Milk Chocolate Candy",
+            "price": 39.99,
+            "size": "56 oz Resealable Bag"
+        },
+        {
+            "id": 12,
+            "productTypeId": 3,
+            "product": "See's Gold Coins",
+            "price": 6,
+            "size": "4 oz"
+        },
+        {
+            "id": 13,
+            "productTypeId": 3,
+            "product": "Riesen Chewy Chocolate Caramel",
+            "price": 13.29,
+            "size": "30 oz"
+        },
+        {
+            "id": 14,
+            "productTypeId": 3,
+            "product": "Hershey's Miniatures",
+            "price": 10.99,
+            "size": "1 lb"
+        },
+        {
+            "id": 15,
+            "productTypeId": 3,
+            "product": "Ferrero Rocher Fine Hazelnut Milk Chocolate",
+            "price": 9.98,
+            "size": "24 count, 10.5 oz box"
+        },
+        {
+            "id": 16,
+            "productTypeId": 4,
+            "product": "Wrigley's Spearmint",
+            "price": 13.99,
+            "size": "15 sticks per pack / 10 packs = 1 box"
+        },
+        {
+            "id": 17,
+            "productTypeId": 4,
+            "product": "Trident White Spearmint Go-Cup",
+            "price": 14.69,
+            "size": "4 60-pice Go-Cups / 240 pieces total"
+        },
+        {
+            "id": 18,
+            "productTypeId": 4,
+            "product": "Wrigley's Chewing Gum Assortment",
+            "price": 14.99,
+            "size": "40 8-stick packs"
+        },
+        {
+            "id": 19,
+            "productTypeId": 4,
+            "product": "Fruit Stripe Original Gum with temporary tattoos!",
+            "price": 2.08,
+            "size": "17-stick pack"
+        },
+        {
+            "id": 20,
+            "productTypeId": 4,
+            "product": "Double Bubble Bubble Gum",
+            "price": 12.99,
+            "size": "165-piece tub"
+        },
+        {
+            "id": 21,
+            "productTypeId": 5,
+            "product": "Gumdrops",
+            "price": 4.99,
+            "size": "1 lb"
+        },
+        {
+            "id": 22,
+            "productTypeId": 5,
+            "product": "Fruit Slices",
+            "price": 4.99,
+            "size": "1 lb"
+        },
+        {
+            "id": 23,
+            "productTypeId": 5,
+            "product": "Cherry Slices",
+            "price": 4.99,
+            "size": "1 lb"
+        },
+        {
+            "id": 24,
+            "productTypeId": 5,
+            "product": "Ju Ju Coins",
+            "price": 4.99,
+            "size": "1 lb"
+        },
+        {
+            "id": 25,
+            "productTypeId": 5,
+            "product": "Gummy Red and Black Raspberries",
+            "price": 5.99,
+            "size": "1 lb"
+        }
+    ],
+    "employees": [
+        {
+            "id": 1,
+            "locationId": 1,
+            "name": "Stephon Kling",
+            "manager": true,
+            "fullTime": true,
+            "hourlyRate": 15.5
+        },
+        {
+            "id": 2,
+            "locationId": 2,
+            "name": "Fanny Legros",
+            "manager": true,
+            "fullTime": true,
+            "hourlyRate": 15.5
+        },
+        {
+            "id": 3,
+            "locationId": 3,
+            "name": "Jaeden Wolf",
+            "manager": true,
+            "fullTime": true,
+            "hourlyRate": 15.5
+        },
+        {
+            "id": 4,
+            "locationId": 4,
+            "name": "Adrian Stroman",
+            "manager": true,
+            "fullTime": true,
+            "hourlyRate": 15.5
+        },
+        {
+            "id": 5,
+            "locationId": 5,
+            "name": "Danika Swaniawski",
+            "manager": true,
+            "fullTime": true,
+            "hourlyRate": 15.5
+        },
+        {
+            "name": "Kevin Lockett",
+            "locationId": 5,
+            "manager": false,
+            "fullTime": false,
+            "hourlyRate": 7.25,
+            "id": 6
+        },
+        {
+            "name": "Peggy Lockett",
+            "locationId": 5,
+            "manager": false,
+            "fullTime": false,
+            "hourlyRate": 7.25,
+            "id": 7
+        }
+    ],
+    "productTypes": [
+        {
+            "id": 1,
+            "type": "Hard Candy"
+        },
+        {
+            "id": 2,
+            "type": "Nostalgic Candy"
+        },
+        {
+            "id": 3,
+            "type": "Chocolate"
+        },
+        {
+            "id": 4,
+            "type": "Gum"
+        },
+        {
+            "id": 5,
+            "type": "Soft Candy"
+        }
+    ],
+    "customers": [],
+    "purchases": []
+}
